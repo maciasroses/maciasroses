@@ -4,5 +4,5 @@
 
 <p align="center" >
   <img alt="statisticsCard" src="https://github-readme-stats.vercel.app/api?username=maciasroses&count_private=true&show_icons=true&theme=graywhite&hide=stars,issues&hide_border=true&hide_title=true"/>
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciasroses&layout=compact&hide_title=true" />
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciasroses&layout=compact&hide_title=true&hide_border=true" />
 </p>
