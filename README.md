@@ -29,7 +29,9 @@
 </p>
 
 <p align="center">
-  And finally, I would like you to enter <a>MY PORTFOLIO</a> and see what I am capable of. 
-  <br />
+  And finally, I would like you to enter <a href="google.com">MY PORTFOLIO</a> and see what I am capable of. 
+</p>
+
+## <p alig="center">
   See you soon 🌹
 </p>
