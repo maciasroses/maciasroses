@@ -32,7 +32,7 @@
   And finally, I would like you to enter <a href="google.com">MY PORTFOLIO</a> and see what I am capable of. 
 </p>
 
-<p alig="center" style="font-size:50px">
+<p align="center" style="font-size:60px">
   <strong>
     See you soon 🌹
   </strong>
