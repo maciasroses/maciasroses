@@ -12,7 +12,7 @@
   Now, these are some of my trophies and stats:
   <br /><br />
   <img alt="contributions_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maciasroses" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=maciasroses&no-frame=true&title=Commits,PullRequest,Reviews,Experience,Repositories" />
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=maciasroses&no-frame=true" />
 </p>
 
 <p align="center" >
