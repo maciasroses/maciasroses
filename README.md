@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  These are the technologies that I have used before and now, these being the ones that I feel comfortable with
+  These are the technologies that I have used before and continue to use, also the ones that I feel most comfortable with:
   <br /> <br />
   <img alt="technologies" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,ts,react,remix,nextjs,vite,nodejs,express,nestjs,docker,py,flask,fastapi,php,mysql,postgres,prisma,mongodb,appwrite,firebase,postman,aws,azure,swift,wordpress" />
 </p>
