@@ -17,8 +17,8 @@
 <p align="center">
   On the other hand, these are some of my stats and trophies:
   <br /><br />
-  <img alt="contributions_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maciasroses&hide_border=true" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=maciasroses&no-frame=true" />
+  <img alt="contributions_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maciasroses&hide_border=true&theme=onedark" />
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=maciasroses&no-frame=true&theme=onedark" />
 </p>
 
 <p align="center" >
