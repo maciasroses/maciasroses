@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  These are the technologies that I have used before and continue to use, also the ones that I feel most comfortable with:
+  These are the technologies that I have used before and continue to use, and are also the same ones that I feel most comfortable with:
   <br /> <br />
   <img alt="technologies" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,ts,react,remix,nextjs,vite,nodejs,express,nestjs,docker,py,flask,fastapi,php,mysql,postgres,prisma,mongodb,appwrite,firebase,postman,aws,azure,swift,wordpress" />
 </p>
@@ -22,8 +22,14 @@
 </p>
 
 <p align="center" >
-  And finally, I present to you all my coding activity and the percentage of each language according to my projects:
+  In addition, I present to you all my coding activity and the percentage of each language according to my projects:
   <br /><br />
   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciasroses&hide_title=true&hide_border=true&layout=compact" />
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciasroses&layout=compact&hide_title=true&hide_border=true" />
+</p>
+
+<p align="center">
+  And finally, I would like you to enter <a>MY PORTFOLIO</a> and see what I am capable of. 
+  <br />
+  See you soon 🌹
 </p>
