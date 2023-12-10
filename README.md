@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Now, these are some of my trophies and stats:
+  Now, these are some of my stats and trophies:
   <br /><br />
   <img alt="contributions_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maciasroses&hide_border=true" />
   <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=maciasroses&no-frame=true" />
