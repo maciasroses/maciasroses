@@ -22,7 +22,7 @@
 </p>
 
 <p align="center" >
-  And finally, I present to you all my languages and the time I dedicate to each one:
+  And finally, I present to you all my coding activity and the percentage of each language according to my projects:
   <br /><br />
   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciasroses&hide_title=true&hide_border=true&layout=compact" />
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciasroses&layout=compact&hide_title=true&hide_border=true" />
