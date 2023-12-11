@@ -22,9 +22,8 @@
 </p>
 
 <p align="center" >
-  In addition, I present to you all my coding activity and the percentage of each language according to my projects:
+  In addition, I present to you all my coding activity day by day:
   <br /><br />
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maciasroses&layout=compact&hide_title=true&hide_border=true" />
   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciasroses&hide_title=true&hide_border=true&layout=compact" />
 </p>
 
