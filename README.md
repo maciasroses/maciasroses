@@ -23,7 +23,7 @@
 
 <p align="center" >
   In addition, I present to you all my coding activity day by day:
-  <br /><br />
+  <br />
   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=maciasroses&hide_title=true&hide_border=true&layout=compact" />
 </p>
 
