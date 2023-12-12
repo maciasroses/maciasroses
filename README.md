@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm Jorge Macias, a 21-years-old full stack developer from Mexico specialized in React with the Remix.run and Next.js frameworks, relational and non-relational database with MySQL, MongoDB, PostgreSQL and the Prisma ORM, and finally APIs made in PHP with Apache, Python with Flask, Node.js with Express and NestJS with Prisma.
+  I'm Jorge Macias, a 21-years-old full stack developer from Mexico specialized in React with the Remix.run and Next.js frameworks, relational and non-relational database with MySQL, MongoDB, PostgreSQL and the Prisma ORM, and finally APIs made in PHP with Apache, Python with Flask and FastAPI, Node.js with Express and NestJS with Prisma.
 </p>
 
 <p align="center">
