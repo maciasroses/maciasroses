@@ -14,13 +14,6 @@
   <img alt="technologies" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,remix,nextjs,vite,astro,nodejs,express,nestjs,docker,py,flask,fastapi,php,mysql,postgres,prisma,mongodb,appwrite,supabase,gcp,aws,azure,swift,wordpress" />
 </p>
 
-<p align="center">
-  On the other hand, these are some of my stats and trophies:
-  <br /><br />
-  <img alt="contributions_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maciasroses&hide_border=true&theme=onedark" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=maciasroses&no-frame=true&theme=onedark" />
-</p>
-
 <p align="center" >
   In addition, I present to you all my coding activity day by day:
   <br />
