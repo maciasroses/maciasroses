@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  And finally, I would like you to enter <a href="https://my-portfolio-maciasroses.vercel.app" target="_blank">my portfolio</a> and see what I am capable of. 
+  And finally, I would like you to enter <a href="[https://my-portfolio-maciasroses.vercel.app](https://my-portfolio-nu-ebon.vercel.app)" target="_blank">my portfolio</a> and see what I am capable of. 
 </p>
 
 <p align="center">
