@@ -11,7 +11,7 @@
 <p align="center">
   These are the technologies that I have used before and continue to use, and are also the same ones that I feel most comfortable with:
   <br /><br />
-  <img alt="technologies" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,ts,js,jquery,react,nextjs,remix,vite,astro,nodejs,express,nestjs,py,django,flask,fastapi,cs,dotnet,php,graphql,mysql,sqlite,postgres,prisma,mongodb,firebase,appwrite,supabase,swift,docker,git,githubactions,gcp,aws,azure,vercel,wordpress" />
+  <img alt="technologies" src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,remix,vite,nodejs,express,nestjs,py,fastapi,django,flask,cs,dotnet,php,graphql,mysql,sqlite,postgres,prisma,mongodb,firebase,neon,supabase,appwrite,swift,docker,git,githubactions,gcp,aws,azure,vercel,wordpress,zoho" />
 </p>
 
 <p align="center" >
