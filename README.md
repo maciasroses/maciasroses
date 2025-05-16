@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am Jorge Macias, a full-stack developer based in Mexico with more than 7 years of experience. My expertise lies in React with React App, and also utilizing frameworks such as Next.js and Remix.run. I have experience with both relational (MySQL, PostgreSQL, and SQLite3) and non-relational (MongoDB, and Firebase) databases, and I am proficient in crafting APIs using Node.js (NestJS, and Express.js), Python (Django, Flask, and FastAPI), and PHP (Apache) with or without ORMs such as Prisma.
+  Hi, I’m Jorge Macias — a full-stack and DevOps developer from Mexico with over 7 years of experience building and deploying web applications end to end. I specialize in modern JavaScript frameworks like React and Next.js, and have built APIs using Node.js, Python, PHP, and C#. I’m comfortable with both SQL and NoSQL databases, and I manage cloud infrastructure across AWS, Azure, and Google Cloud. I enjoy delivering scalable, production-ready solutions using a wide range of tools and platforms.
 </p>
 
 <p align="center">
