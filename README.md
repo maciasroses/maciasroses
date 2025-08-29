@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hi, I’m Jorge Macias — a Full-stack and DevOps developer from Mexico with over 7 years of experience building and deploying web applications end to end. I specialize in modern JavaScript frameworks like React and Next.js, and have built APIs using Node.js, Python, PHP, and C#. I’m comfortable with both SQL and NoSQL databases, and I manage cloud infrastructure across AWS, Azure, and Google Cloud. I enjoy delivering scalable, production-ready solutions using a wide range of tools and platforms.
+  Hi, I’m Jorge Macias — a Full-stack developer from Mexico with over 7 years of experience building and deploying web applications end to end. I specialize in modern JavaScript frameworks like React and Next.js, and have built APIs using Node.js, Python, PHP, and C#. I’m comfortable with both SQL and NoSQL databases, and I manage cloud infrastructure across AWS, Azure, and Google Cloud. I enjoy delivering scalable, production-ready solutions using a wide range of tools and platforms.
 </p>
 
 <p align="center">
